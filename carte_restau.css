@@ -1,0 +1,52 @@
+.menu
+{
+    text-align: center;
+    width: 100%;
+    border: medium solid black;
+    box-shadow: 5px 5px 5px 2px black;
+    border-collapse: collapse;
+}
+table[class="menu"] td
+{
+    width: 20%;
+    border-left: medium solid black;
+    margin-left: 0;
+}
+section, header
+{
+    text-align: center;
+}
+#dessert
+{
+    text-align: center;
+}
+.dessert
+{
+    color: red;
+}
+div[id="dessert"] h3
+{
+    color: red;
+}
+h2[id="boissons"] table
+{
+    text-align: center;
+}
+.liste
+{
+    list-style-type: none;  
+}
+.table_boiss
+{
+    margin: auto;
+}
+img
+{
+    height: 250px;
+    width: 250px;
+    box-shadow: 5px 5px 5px 2px black;
+}
+h2
+{
+    text-decoration: underline;
+}
